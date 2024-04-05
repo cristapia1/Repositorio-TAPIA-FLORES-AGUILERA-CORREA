@@ -1,11 +1,16 @@
-#Miembros del grupo
-##Isidora Flores 
-##Pablo Correa
-##Cristian Tapia
-##Cristpher Aguilera
+Miembros del grupo
 
-#Tema
-##El aumento de delitos post pandemia y su relacion con la inmigracion
+Isidora Flores 
+
+Pablo Correa
+
+Cristian Tapia
+
+Cristopher Aguilera
+
+Tema
+
+El aumento de delitos post pandemia y su relacion con la inmigracion
 
 Link a video
 https://youtu.be/b2GaSpV2ces
