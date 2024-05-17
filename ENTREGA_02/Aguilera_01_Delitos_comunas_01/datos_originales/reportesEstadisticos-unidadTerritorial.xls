@@ -1,0 +1,164 @@
+<table width="100%"  style="border:1px solid #e6e6e6;">
+				<tbody>
+					<tr><td colspan="12" style="border:1px solid #e6e6e6;">&nbsp;</td></tr>					
+					<tr>		
+							<td style="border:1px solid #e6e6e6;"><b>Medida</b></td><td colspan="11" style="text-align: left;">Frecuencia
+							</td>
+						</tr>
+						<tr>
+							<td style="border:1px solid #e6e6e6;"><b>Tipo de Datos</b></td><td colspan="11" style="text-align: left;border:1px solid #e6e6e6;">Casos Policiales
+							</td>
+						</tr>
+						<tr><td colspan="12" style="border:1px solid #e6e6e6;">&nbsp;</td></tr>						
+					<tr>
+						<td colspan="12" style="text-align: left; background-color:#eaeaea;border:1px solid #e6e6e6;"><b>Unidad Territorial</b></td>
+					</tr>
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Regiones</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Región Metropolitana</td>
+					</tr>						
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Provincias</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Provincia de Santiago</td>
+					</tr>						
+					
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Comunas</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Cerrillos,Cerro Navia,Conchalí,El Bosque,Estación Central,Huechuraba,Independencia,La Cisterna,La Florida,La Granja,La Pintana,La Reina,Las Condes,Lo Barnechea,Lo Espejo,Lo Prado,Macul,Maipú,Ñuñoa,Pedro Aguirre Cerda,Peñalolén,Providencia,Pudahuel,Quilicura,Quinta Normal,Recoleta,Renca,San Joaquín,San Miguel,San Ramón,Santiago,Vitacura</td>
+					</tr>		<tr><td colspan="12" style="border:1px solid #e6e6e6;text-align: left;">&nbsp;</td></tr>					
+					<tr>
+						<td colspan="12" style="text-align: left; background-color:#eaeaea;border:1px solid #e6e6e6;"><b>Delito</b></td>
+					</tr>
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Grupo Delictual</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">Delitos de mayor connotación social</td>
+					</tr>					
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Delitos</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">(Todos)</td>
+					</tr>	<tr><td colspan="12" style="border:1px solid #e6e6e6;text-align: left;">&nbsp;</td></tr>	
+					<tr>
+						<td colspan="12" style="text-align: left; background-color:#eaeaea;border:1px solid #e6e6e6;"><b>Temporalidad</b></td>
+					</tr>
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left; font-weight:bold;">Año</td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">2018,2019,2020,2021,2022,2023</td>
+					</tr>	<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Trimestre</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">(Todos)</td>
+					</tr>			
+					<tr>
+						<td style="border:1px solid #e6e6e6;text-align: left;"><b>Mes</b></td><td colspan="11" style="border:1px solid #e6e6e6;text-align: left;">(Todos)</td>
+					</tr>		<tr><td colspan="12" style="border:1px solid #e6e6e6;text-align: left;">&nbsp;</td></tr>						
+				</tbody>
+			</table><br><div class="cont-reportes col-md-12"><table width="100%" style="border:1px solid #ccc;min-width: 100px;">
+				  <thead>
+				  <tr>
+					<th colspan="1" style="border:1px solid #ccc;min-width: 100px;"></th><th colspan="0" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2018</center></th><th colspan="0" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2019</center></th><th colspan="0" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2020</center></th><th colspan="0" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2021</center></th><th colspan="0" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2022</center></th><th colspan="0" style="border:1px solid #ccc;background:#1d89c8;color:#ffffff;"><center>2023</center></th>
+				  </tr>
+				  <tr>
+					<th style="border:1px solid #ccc;min-width: 200px !important;background:#1d89c8;color:white;">Unidad Territorial</th><!--th>&nbsp;</th--><th style="border:1px solid #ccc;background:#1d89c8;"><center>&nbsp;</center></th><th style="border:1px solid #ccc;background:#1d89c8;"><center>&nbsp;</center></th><th style="border:1px solid #ccc;background:#1d89c8;"><center>&nbsp;</center></th><th style="border:1px solid #ccc;background:#1d89c8;"><center>&nbsp;</center></th><th style="border:1px solid #ccc;background:#1d89c8;"><center>&nbsp;</center></th><th style="border:1px solid #ccc;background:#1d89c8;"><center>&nbsp;</center></th>
+				  </tr>
+				  </thead>
+				<tbody>
+				<tr class="formato_1 strong" style="font-weight:bold; font-size:16px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">TOTAL PAÍS</td><!--td>1</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">549.837,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">554.829,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">386.483,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">335.017,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">488.268,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">515.311,0000000000</td>
+						</tr><tr class="formato_2 strong" style="font-weight:bold; font-size:14px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Región Metropolitana</td><!--td>2</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">251.482,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">258.053,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">176.132,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">152.652,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">215.870,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">225.670,0000000000</td>
+						</tr><tr class="formato_3 strong" style="font-weight:bold; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Provincia de Santiago</td><!--td>3</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">200.188,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">205.305,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">139.617,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">121.294,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">173.067,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">181.660,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Santiago</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">30.849,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">31.540,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">18.755,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">18.091,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">27.588,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">29.794,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Cerrillos</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.781,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.104,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.791,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.247,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.549,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.687,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Cerro Navia</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.585,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.671,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.146,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.103,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.644,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.265,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Conchalí</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.693,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.174,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.208,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.336,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.181,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.539,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">El Bosque</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">4.675,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.723,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.221,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.697,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.390,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.493,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Estación Central</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">9.115,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">9.735,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">6.508,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.297,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.999,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">10.520,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Huechuraba</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.653,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.787,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.392,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.030,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.628,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.893,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Independencia</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.624,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.093,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.050,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.699,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.693,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.672,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">La Cisterna</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">4.129,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.299,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.272,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.894,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.117,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.278,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">La Florida</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">15.041,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">14.944,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">9.542,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.154,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">11.163,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">10.916,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">La Granja</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.589,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.728,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.571,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.165,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.766,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.809,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">La Pintana</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">4.724,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.586,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.297,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.748,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.574,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.468,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">La Reina</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.852,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.917,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.539,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.061,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.927,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.715,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Las Condes</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">10.093,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">9.850,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.604,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.372,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.621,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">6.597,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Lo Barnechea</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.130,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.148,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.448,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.181,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.516,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.545,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Lo Espejo</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.680,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.089,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.580,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.055,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.430,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.385,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Lo Prado</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.873,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.027,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.153,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.949,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.800,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.106,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Macul</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.712,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.966,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.966,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.379,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.477,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.773,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Maipú</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">11.528,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">12.379,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">9.151,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.390,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">11.089,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">11.497,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Ñuñoa</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">8.734,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">8.372,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.953,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.037,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.327,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.580,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Pedro Aguirre Cerda</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.699,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.768,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.286,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.952,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.457,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.603,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Peñalolén</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">5.275,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.936,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.320,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.703,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.015,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.812,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Providencia</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">13.175,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">12.550,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">6.635,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.345,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">11.298,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">11.340,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Pudahuel</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">6.798,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.325,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.113,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.368,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.987,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">6.883,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Quilicura</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">5.643,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.769,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.657,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.622,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.898,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.101,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Quinta Normal</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">5.161,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.202,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.663,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.149,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.666,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.265,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Recoleta</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">8.058,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">8.290,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">6.153,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.649,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.310,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">7.719,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Renca</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.991,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.109,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.285,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.730,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.423,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.813,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">San Joaquín</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.829,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.942,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.262,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.791,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.733,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.043,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">San Miguel</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">5.521,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.577,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">4.263,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.607,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.098,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">5.314,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">San Ramón</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">2.680,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.411,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.571,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">1.490,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.031,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.176,0000000000</td>
+						</tr><tr class="formato_4 " style="font-weight:normal; font-size:13px;">
+							<td class="text-left" style="border:1px solid #ccc;min-width: 100px;">Vitacura</td><!--td>4</td-->
+						<td style="border:1px solid #ccc;min-width: 100px;">3.298,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">3.294,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.262,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.003,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.672,0000000000</td><td style="border:1px solid #ccc;min-width: 100px;">2.059,0000000000</td>
+						</tr>
+					</tbody>
+					</table></div>
