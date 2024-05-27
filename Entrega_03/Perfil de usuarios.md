@@ -6,12 +6,12 @@ Estado civil: En pareja, con una hija
 
 Nivel educativo: Universitario
 
-Ocupación: Profesional en el área de tecnología
+Ocupación: Psicólogo
 
 Ubicación: Reside en Santiago, Chile
 
 ### Descripción:
-Cristian es un papá muy preocupado por la seguridad y comodidad de su familia. Trabaja en tecnología y está buscando un departamento para arrendar en una zona segura de Santiago. Su prioridad es garantizar un entorno estable y seguro para su pareja e hija.
+Cristian es un papá muy preocupado por la seguridad y comodidad de su familia. Está buscando un departamento para arrendar en una zona segura de Santiago. Su prioridad es garantizar un entorno estable y seguro para su pareja e hija.
 
 ### Personalidad:
 Cristian es práctico, responsable y muy cuidadoso. Le gusta investigar a fondo antes de tomar cualquier decisión importante, asegurándose de que cada paso que da sea el mejor para su familia.
