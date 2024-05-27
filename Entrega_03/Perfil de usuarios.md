@@ -77,7 +77,7 @@ Daniela es experta en el uso de tecnología, especialmente en redes sociales, qu
 # Perfil 3: Osvaldo Contreras
 
 ### Información Demográfica:
-Edad: 40 años
+Edad: 46 años
 
 Estado civil: Casado
 
@@ -88,7 +88,7 @@ Ocupación: Periodista
 Ubicación: Reside en Santiago, Chile
 
 ### Descripción:
-Osvaldo es un periodista con más de 15 años de experiencia. Siempre le ha interesado contar historias de temas complejos y así generar un cambio en la sociedad. Hace meses que ha trabajado en el tema de la delincuencia en Santiago y desea investigar a fondo para crear un reportaje informativo y revelador.
+Osvaldo es un periodista con más de 20 años de experiencia. Siempre le ha interesado contar historias de temas complejos y así generar un cambio en la sociedad. Hace meses que ha trabajado en el tema de la delincuencia en Santiago y desea investigar a fondo para crear un reportaje informativo y revelador.
 
 ### Personalidad:
 Osvaldo es analítico, comprometido y perseverante. Tiene una mente curiosa y está dispuesto a profundizar en los temas más complejos para entenderlos completamente. Es ético en su trabajo y siempre busca la verdad en sus investigaciones.
