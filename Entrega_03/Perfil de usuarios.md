@@ -103,7 +103,7 @@ Su principal motivación es informar y educar al público sobre un tema crucial 
 Uno de sus mayores desafíos es acceder a información confiable y real sobre la delincuencia en Santiago, además de los detalles por comunas y zonas. También necesita obtener testimonios a través de entrevistas con personas que estén dispuestas a compartir sus experiencias. 
 
 ### Uso de la Tecnología:
-Osvaldo a lo largo de sus años trabajando ha desarrollado sus habilidades tecnológicas. Siempre ha ocupado las fuentes online para obtener información para sus distintas investigaciones. Además utiliza programas de edición de video y audio junto con herramientas de análisis de datos. 
+Osvaldo se ha visto obligado a aprender lo básico en cuanto a lo tecnológico por su trabajo, sin embargo no tiene un conocimiento avanzado. Si esta acostumbrado a utilizar fuentes online para obtener información para sus distintas investigaciones. Además tiene un conocimiento medio en programas de edición de video y audio. 
 
 ### User Journey Map:
 
