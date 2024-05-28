@@ -1,3 +1,9 @@
+## Links
+A continuación adjuntamos el link del video y del pdf de la presentación
+https://youtu.be/rgvVClMn_bo?si=W9DEKsY1EmWwfN1O
+https://www.canva.com/design/DAGGMf3skGI/y7val_-WH1kLL5KXCsimyg/edit?utm_content=DAGGMf3skGI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+# Documentación proceso
+
 # Perfil de usuarios
 Para definir los usuarios de nuestra plataforma buscamos distintos perfiles que se vieran beneficiados desde distintas perspectivas. Que cada uno, desde su profesión e intereses, pudiera obtener un beneficio a partir de lo que nosotros ofrecemos.
 
