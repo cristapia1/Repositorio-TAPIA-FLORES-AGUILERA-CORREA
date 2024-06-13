@@ -1,0 +1,10 @@
+Nombre: Visualizacion de Delincuencia por Comuna y Año en Santiago, Chile
+
+Explicacion de como se realizo: 
+Utilizamos Google Colab para la programacion y visualizacion de los datos. Se importaron las librerias necesarias, se cargo el conjunto de datos desde un archivo Excel y se realizó el preprocesamiento de los datos para eliminar las filas correspondientes al total del pais, la regiin metropolitana y la provincia de Santiago, ya que estas no son comunas especificas y sus altos numero de crimen, en comparación con las comunas, no permitian visualizar en detalle las diferencias numericas entre unas y otras. Luego, se procedio a crear los graficos de barras para los años 2021, 2022 y 2023, utilizando la libreria matplotlib, ajustando el tamaño y las etiquetas de los ejes para una mejor legibilidad. Se tomaron decisiones sobre el diseño del gráfico, como la selección de colores y la orientación de las etiquetas de las comunas.
+
+Base de datos: 
+La base de datos utilizada es un archivo Excel con informacion detallada sobre la delincuencia por comuna y año en la region metropolitana de Santiago, Chile. Se proceso inicialmente para eliminar las filas correspondientes al total del pais, la region metropolitana y la provincia de Santiago, ya que estas no son comunas especificas y no son relevantes para la visualizacion, ademas de que no permitian ver bien la diferencia numerica entre comunas. La base de datos se selecciono porque proporciona informacion detallada sobre la delincuencia en una region especifica y permite visualizar la cantidad de delitos por comuna, especificados de manera anual para ver posibles variaciones en los ultimos años.
+
+Preguntas que puede responder la visualizacion: 
+La visualizacion de la base de datos nos permite responder rapidamente preguntas tales como: ¿Cuales son las comunas de santiago con mayores indices de criminalidad? ¿Cuales son las con menores indices? ¿Como ha variado la cantidad de delitos en las distintas comunas de la capital en los ultimos años? ¿Que comunas muestran un aumento en la delincuencia?
