@@ -3,7 +3,7 @@
 ## Delitos en Santiago
 Desde el **2018 al 2023**, los delitos de connotación social en Chile han disminuido de **200,188 a 181,660**, lo que representa una reducción del **9.26%**. Siendo la pandemia un claro atenuante, considerando la particularidad de la baja de las cifras durante el 2021. A pesar de esta tendencia general a la baja, es importante destacar que **algunos tipos de delitos han experimentado un aumento particular durante este mismo período**, lo que subraya la necesidad de enfoques específicos para abordar las áreas donde la criminalidad sigue siendo una preocupación creciente.
 
-![delincuencia](El-costo-de-la-delincuencia-Credito-El-Regionalista.png)
+![delincuencia](ImagenDelincuencia.jfif)
 
 ## Evolución de delitos
 ![grafico 2018](2018.png)
