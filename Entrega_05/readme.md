@@ -36,6 +36,6 @@ Este flujo asegura que los usuarios comprendan primero el panorama general antes
 
 ## Proceso de creación y distribución de tareas
 
-### Cristopher Aguilera: Gráficos de comunas en Fluorish, gráfico de delitos que disminuyeron en pyhton. Montaje y edición de HTML Y CSS. Publicación de página y de entrega 05.
+##### Cristopher Aguilera: Gráficos de comunas en Fluorish, gráfico de delitos que disminuyeron en python. Montaje y edición de HTML Y CSS. Publicación de página y de entrega 05.
 
-### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivo README. Textos y párrafos de análisis presentes en la web.
+##### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivo README. Textos y párrafos de análisis presentes en la web.
