@@ -33,3 +33,9 @@ El flujo de usuarios en la webstory está diseñado para ser intuitivo y lógico
 Este flujo asegura que los usuarios comprendan primero el panorama general antes de profundizar en detalles específicos, lo que facilita una mejor comprensión de la evolución de los delitos de connotación social en Santiago.
 ## Conclusión
 "Delito Data" ofrece una visión clara y detallada de cómo ha ido mutando el registro de delitos de connotación social post pandemia en Santiago. A través de una cuidadosa recolección y análisis de datos, junto con un diseño interactivo y accesible, nuestra webstory proporciona una herramienta valiosa para el análisis y comprensión de las tendencias delictivas en los últimos cinco años.
+
+## Proceso de creación y distribución de tareas
+
+### Cristopher Aguilera: Gráficos de comunas en Fluorish, gráfico de delitos que disminuyeron en pyhton. Montaje y edición de HTML Y CSS. Publicación de página y de entrega 05.
+
+### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivo README. Textos y párrafos de análisis presentes en la web.
