@@ -1,4 +1,5 @@
 # Delito Data
+Video presentación: https://youtu.be/y9tHLZidiqA?si=d8L5doyQZELEQlEV
 ## Introducción
 "Delito Data" es una webstory diseñada para ofrecer un análisis detallado de las estadísticas de delitos de connotación social en Santiago, Chile, entre los años 2018 y 2023. Esta plataforma proporciona datos numéricos que permiten visualizar la evolución de estos delitos, destacando cómo la pandemia influyó en una caída significativa de las cifras delictivas. 
 ## Hipótesis y Preguntas Iniciales
