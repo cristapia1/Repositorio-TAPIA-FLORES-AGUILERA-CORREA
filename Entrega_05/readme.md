@@ -15,4 +15,4 @@ Los delitos de connotación social han disminuido tras la pandemia.
 
 ##### Cristopher Aguilera: Gráficos de comunas en Fluorish, gráfico de delitos que disminuyeron en python. Montaje y edición de HTML Y CSS. Publicación de página y de entrega 05.
 
-##### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivo README. Textos y párrafos de análisis presentes en la web.
+##### Pablo Correa: Gráfico general y de delitos que aumentaron en python. Archivo README info general. Textos y párrafos de análisis presentes en la web. Video presentación.
