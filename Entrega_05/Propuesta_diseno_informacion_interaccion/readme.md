@@ -17,5 +17,3 @@ Realizamos pruebas de usabilidad para asegurar que la webstory fuera intuitiva y
 ## Flujo de Usuarios
 El flujo de usuarios en la webstory está diseñado para ser intuitivo y lógico. Los usuarios comienzan con una visión general de las estadísticas nacionales, luego profundizan en los datos regionales y provinciales. Posteriormente, exploran las comunas con mayor disminución y las excepciones notables. Finalmente, interactúan con las cifras de delitos específicos para un análisis detallado.
 Este flujo asegura que los usuarios comprendan primero el panorama general antes de profundizar en detalles específicos, lo que facilita una mejor comprensión de la evolución de los delitos de connotación social en Santiago.
-## Conclusión
-"Delito Data" ofrece una visión clara y detallada de cómo ha ido mutando el registro de delitos de connotación social post pandemia en Santiago. A través de una cuidadosa recolección y análisis de datos, junto con un diseño interactivo y accesible, nuestra webstory proporciona una herramienta valiosa para el análisis y comprensión de las tendencias delictivas en los últimos cinco años.
