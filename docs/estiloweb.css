@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+
+body {
+    margin: 60px;  /* Ajusta el valor según tus necesidades */
+}
+.center-container {
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+}
+
+img {
+    max-width: 40%;
+    height: auto;
+}
+h1 {
+    font-family: 'Lato', sans-serif; /* Fuente personalizada para h1 */
+    text-align: center; /* Centrando el título */
+}
+h2 {
+    font-family: 'Lato', sans-serif; /* Fuente personalizada para h1 */
+}
+
+p {
+    font-family: 'Open Sans', sans-serif; /* Fuente personalizada para párrafos */
+}
+
+.texto-grande {
+    font-size: 40px; /* Ajusta el valor según tus necesidades */
+    font-family: 'Oswald', sans-serif;
+    text-align: center; /* Centrando el título */
+}
+.texto-grande2 {
+    font-size: 40px; /* Ajusta el valor según tus necesidades */
+    font-family: 'Oswald', sans-serif;
+    text-align: center; /* Centrando el título */
+}
+.texto-grande3 {
+    font-size: 40px; /* Ajusta el valor según tus necesidades */
+    font-family: 'Oswald', sans-serif;
+    text-align: center; /* Centrando el título */
+}
+.texto-grande4 {
+    font-size: 40px; /* Ajusta el valor según tus necesidades */
+    font-family: 'Oswald', sans-serif;
+    text-align: center; /* Centrando el título */
+}
+
+.texto-grande5 {
+    font-size: 40px; /* Ajusta el valor según tus necesidades */
+    font-family: 'Oswald', sans-serif;
+    text-align: center; /* Centrando el título */
+}
